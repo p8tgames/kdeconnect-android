@@ -1,5 +1,7 @@
 # KDE Connect - Android app
 
+(Note: This fork is made to be eventually distributed with Magma, it should work for other devices/ROMs though.)
+
 KDE Connect is a multi-platform app that allows your devices to communicate (eg: your phone and your computer).
 
 ## (Some) Features
